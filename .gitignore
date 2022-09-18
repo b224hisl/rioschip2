@@ -1,8 +1,6 @@
-/.idea/
-/precheck_results/
-*/tmp
-*/*/tmp
-*.hex*
-*.lst
-*.vcd
-*.gtkw
+/precheck_results
+/dependencies
+/*/*/runs
+*.log
+/info
+/caravel
